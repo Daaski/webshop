@@ -1,0 +1,22 @@
+.Navbar {
+    width: 100%;
+    height: 75px;
+    display: flex;
+    align-items: center;
+    box-shadow: 1px 1px 30px lightgray;
+}
+
+.Navbar_item_home {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.Navbar_item {
+    font-size: 20px;
+    margin: 0 10px 0 10px
+}
+
+
+.Navbar_button {
+    margin: 0 20px 0 auto;
+}

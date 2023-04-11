@@ -1,0 +1,10 @@
+.Container {
+    width: calc(100% - (90px));
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+.Admin_button {
+    margin-top: 20px;
+}
